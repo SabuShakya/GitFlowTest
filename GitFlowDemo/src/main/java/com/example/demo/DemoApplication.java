@@ -14,4 +14,8 @@ public class DemoApplication {
 	public  void login(){
 		System.out.println("Login code here");
 	}
+
+	public void signup(){
+        System.out.println("Sign up here ");
+    }
 }
