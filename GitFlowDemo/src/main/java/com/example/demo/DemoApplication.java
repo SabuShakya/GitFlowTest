@@ -10,4 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 	}
+
+	public  void login(){
+		System.out.println("Login code here");
+	}
 }
